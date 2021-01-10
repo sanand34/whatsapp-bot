@@ -10,3 +10,4 @@ $ npm install
 
 ```js
 $ node wbot.js
+```
