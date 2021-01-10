@@ -9,5 +9,5 @@ $ npm install
 ## Usage
 
 ```js
-$ node wbot.js
+$ node wbot
 ```
