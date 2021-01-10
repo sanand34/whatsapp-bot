@@ -9,4 +9,4 @@ $ npm install --save highlight-text
 ## Usage
 
 ```js
-node wbot.js
+$ node wbot.js
