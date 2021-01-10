@@ -3,7 +3,7 @@
 ## Install
 
 ```sh
-$ npm install --save highlight-text
+$ npm install 
 ```
 
 ## Usage
