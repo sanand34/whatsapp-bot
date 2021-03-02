@@ -26,4 +26,4 @@ r1.question("Which news you want to hear: \n", (newstopic) => {
 
       await wbm.end();
     })
-    .catch((err) => console.log(err));
+    .catch((err) => console.log(err))})
